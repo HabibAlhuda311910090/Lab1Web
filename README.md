@@ -16,3 +16,17 @@
 <img width="844" alt="4" src="https://user-images.githubusercontent.com/81343412/112710040-c5fe3a80-8ef0-11eb-896e-728caae55cca.PNG">
 * Hasil (2)
 <img width="960" alt="4" src="https://user-images.githubusercontent.com/81343412/112710042-c7c7fe00-8ef0-11eb-9496-8f5651556b5c.PNG">
+# 2. Menambah Judul
+<img width="261" alt="5" src="https://user-images.githubusercontent.com/81343412/112710259-4a04f200-8ef2-11eb-92a3-605cf6854c8e.PNG">
+*Hasil
+<img width="960" alt="5" src="https://user-images.githubusercontent.com/81343412/112710311-b08a1000-8ef2-11eb-90cc-7c43171b62b2.PNG">
+*dirapihkan dan digambungkan dengan paragrafnya
+<img width="804" alt="6" src="https://user-images.githubusercontent.com/81343412/112710335-db746400-8ef2-11eb-8a7a-f82de7a1af01.PNG">
+*Hasil
+<img width="960" alt="6" src="https://user-images.githubusercontent.com/81343412/112710348-eaf3ad00-8ef2-11eb-8c7d-cd6c65a29885.PNG">
+
+
+
+
+
+

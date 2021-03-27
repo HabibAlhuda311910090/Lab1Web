@@ -26,6 +26,7 @@
 
 *dirapihkan dan digambungkan dengan paragrafnya
 <img width="804" alt="6" src="https://user-images.githubusercontent.com/81343412/112710335-db746400-8ef2-11eb-8a7a-f82de7a1af01.PNG">
+
 *Hasil
 <img width="960" alt="6" src="https://user-images.githubusercontent.com/81343412/112710348-eaf3ad00-8ef2-11eb-8c7d-cd6c65a29885.PNG">
 
